@@ -1,2 +1,2 @@
 # eNutris_ComingSoon
-Página temporária para o projecto eNutris
+Página temporária (em construção) para o projecto eNutris
